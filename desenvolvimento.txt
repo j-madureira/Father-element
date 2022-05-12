@@ -1,0 +1,5 @@
+- Crie um HTML
+- Crie uma Div
+- H1 dentro da Div
+- P dentro da Div
+- Acesse o elemento pai por um dos elementos filhos.
